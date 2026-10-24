@@ -1,18 +1,141 @@
-# 💫 About Me:
-* Master's student in Applied Computer Science at Dalhousie University with a focus on web development and a keen interest in staying up-to-date with the latest technologies.<br><br>
-* Experienced in programming languages such as Python, JavaScript, TypeScript, Java, and C++ and proficient in web development frameworks including ReactJs and NextJs.<br><br>
-* Dedicated and hardworking learner with a strong foundation in web development seeking opportunities to apply skills and gain experience as a web developer.<br><br>
-* Interested in working for a dynamic and innovative company in the field of web development.<br>
+<p align="center">
+  <img src="./assets/banner.svg" alt="Hi, I'm Umang — Software Developer in Toronto" width="1200" />
+</p>
 
+<p align="center">
+  <a href="https://umangmehta.ca"><img src="https://img.shields.io/badge/Portfolio-ef7157?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>&nbsp;<a href="https://www.linkedin.com/in/umang-kalpesh-mehta/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="mailto:mehtaumangkalpesh@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/umang-kalpesh-mehta) 
+<p align="center">
+  <img src="./assets/divider.svg" alt="" width="100%" />
+</p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=umang-20&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=umang-20&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=umang-20&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## Experience
 
----
+Teams, roles, and places that have shaped how I build.
+
+### [First National Financial LP](https://www.firstnational.ca/)
+`Full Time` · Toronto, Canada · May 2024 – Present
+
+**Application Developer** · Jul 2025 – Present  
+**Jr. Application Developer** · Aug 2024 – Jun 2025  
+**Application Developer Intern** · May 2024 – Jul 2024
+
+- Build customer-facing apps with C#, .NET, and Vue.js
+- Develop internal .NET Core APIs used across teams
+- Partner with QA and analysts through design, coding, and reviews
+
+### [Dalhousie University](https://www.dal.ca/)
+`Co-op` · Halifax, Canada · Jan 2024 – Apr 2024
+
+**Business Intelligence Developer**
+
+- Built pipelines for collecting and cleaning poultry farm emissions data
+- Designed geospatial visualizations and applied analytics / ML for insights
+
+### [Ciphernutz IT Services](https://www.ciphernutz.com/)
+`Full Time` · Surat, India · Jan 2022 – Sep 2022
+
+**Software Developer**
+
+- Shipped full-stack apps with React, Next.js, TypeScript, and Node.js
+- Contributed across frontend and backend with a focus on maintainable code
+
+<p align="center">
+  <img src="./assets/divider.svg" alt="" width="100%" />
+</p>
+
+## Skills & tools
+
+Languages and frameworks I use day to day — C#, TypeScript, .NET, Vue.js, React, and Next.js.
+
+**Languages**
+
+<p>
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+</p>
+
+**Frontend**
+
+<p>
+<img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js" />
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+</p>
+
+**Backend, Database & Cloud**
+
+<p>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server" />
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
+<img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+</p>
+
+<p align="center">
+  <img src="./assets/divider.svg" alt="" width="100%" />
+</p>
+
+## Projects
+
+A few things I have been building on the side.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/UmangKMehta/Fintrack">Fintrack</a></h3>
+      Personal finance PWA with an insight-focused dashboard, token auth, and clean Agile delivery habits.
+      <br/><br/>
+      <code>Java</code> <code>JavaScript</code> <code>CSS</code> <code>HTML</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/UmangKMehta/CineVerse">CineVerse</a></h3>
+      Movie booking experience with real-time seat updates, recommendations, and reviews.
+      <br/><br/>
+      <code>JavaScript</code> <code>HTML</code> <code>CSS</code>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3><a href="https://github.com/UmangKMehta/Trivia-Titans">Trivia-Titans</a></h3>
+      Realtime cross-platform trivia with team chat, live leaderboards, and a virtual assistant chatbot.
+      <br/><br/>
+      <code>JavaScript</code> <code>Python</code> <code>Docker</code>
+    </td>
+    <td valign="top">
+      <h3><a href="https://github.com/UmangKMehta/Text-Recognition-by-Air-Drawing">Text Recognition by Air Drawing</a></h3>
+      CNN + OpenCV model that recognizes text drawn in the air — basis of an <a href="https://ieeexplore.ieee.org/document/9514996">IEEE paper</a>.
+      <br/><br/>
+      <code>Python</code> <code>OpenCV</code> <code>CNN</code>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="./assets/divider.svg" alt="" width="100%" />
+</p>
+
+## About
+
+**Good software starts with curiosity.**
+
+I enjoy building scalable, maintainable applications and applying modern tools to real-world problems. My academic background reflects a deep interest in algorithms and artificial intelligence.
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=UmangKMehta&show_icons=true&theme=transparent&hide_border=true&bg_color=0c1410&title_color=ef7157&icon_color=c9f36a&text_color=a5b4a8&ring_color=c9f36a" width="480" alt="Umang's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmangKMehta&layout=compact&theme=transparent&hide_border=true&bg_color=0c1410&title_color=ef7157&text_color=a5b4a8" width="480" alt="Top languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UmangKMehta&theme=dark&hide_border=true&background=0c1410&ring=c9f36a&fire=ef7157&currStreakLabel=ef7157" width="680" alt="GitHub streak" />
+</p>
