@@ -78,18 +78,17 @@ Languages and frameworks I use day to day — C#, TypeScript, .NET, Vue.js, Reac
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UmangKMehta&show_icons=true&theme=transparent&hide_border=true&bg_color=0c1410&title_color=ef7157&icon_color=c9f36a&text_color=a5b4a8&ring_color=c9f36a" width="480" alt="Umang's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmangKMehta&layout=compact&theme=transparent&hide_border=true&bg_color=0c1410&title_color=ef7157&text_color=a5b4a8" width="480" alt="Top languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UmangKMehta&theme=dark&hide_border=true&background=0c1410&ring=c9f36a&fire=ef7157&currStreakLabel=ef7157" width="680" alt="GitHub streak" />
-</p>
-
 ## About
 
 **Good software starts with curiosity.**
 
 I enjoy building scalable, maintainable applications and applying modern tools to real-world problems. My academic background reflects a deep interest in algorithms and artificial intelligence.
+
+<details>
+<summary><strong>GitHub stats</strong></summary>
+<br />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=UmangKMehta&show_icons=true&theme=transparent&hide_border=true&bg_color=0c1410&title_color=ef7157&icon_color=c9f36a&text_color=a5b4a8&ring_color=c9f36a" height="140" alt="Umang's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmangKMehta&layout=compact&theme=transparent&hide_border=true&bg_color=0c1410&title_color=ef7157&text_color=a5b4a8" height="140" alt="Top languages" />
+</p>
+</details>
