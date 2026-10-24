@@ -1,14 +1,22 @@
-<p align="center">
-  <img src="./assets/banner.svg" alt="Hi, I'm Umang — Software Developer in Toronto" width="1200" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://umangmehta.ca"><img src="https://img.shields.io/badge/Portfolio-ef7157?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>&nbsp;<a href="https://www.linkedin.com/in/umang-kalpesh-mehta/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="mailto:mehtaumangkalpesh@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+<img src="./assets/um.svg" alt="UM" width="72" />
 
-<p align="center">
-  <img src="./assets/divider.svg" alt="" width="100%" />
-</p>
+### Toronto, Canada
+
+# Hi, I'm Umang
+
+**Software Developer**
+
+I build software that's dependable, maintainable, and a little bit considered.
+
+<br />
+
+<a href="https://umangmehta.ca"><img src="https://img.shields.io/badge/Portfolio-ef7157?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>&nbsp;<a href="https://www.linkedin.com/in/umang-kalpesh-mehta/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="mailto:mehtaumangkalpesh@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+</div>
+
+---
 
 ## Experience
 
@@ -41,9 +49,7 @@ Teams, roles, and places that have shaped how I build.
 - Shipped full-stack apps with React, Next.js, TypeScript, and Node.js
 - Contributed across frontend and backend with a focus on maintainable code
 
-<p align="center">
-  <img src="./assets/divider.svg" alt="" width="100%" />
-</p>
+---
 
 ## Skills & tools
 
@@ -81,48 +87,7 @@ Languages and frameworks I use day to day — C#, TypeScript, .NET, Vue.js, Reac
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 </p>
 
-<p align="center">
-  <img src="./assets/divider.svg" alt="" width="100%" />
-</p>
-
-## Projects
-
-A few things I have been building on the side.
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/UmangKMehta/Fintrack">Fintrack</a></h3>
-      Personal finance PWA with an insight-focused dashboard, token auth, and clean Agile delivery habits.
-      <br/><br/>
-      <code>Java</code> <code>JavaScript</code> <code>CSS</code> <code>HTML</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/UmangKMehta/CineVerse">CineVerse</a></h3>
-      Movie booking experience with real-time seat updates, recommendations, and reviews.
-      <br/><br/>
-      <code>JavaScript</code> <code>HTML</code> <code>CSS</code>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <h3><a href="https://github.com/UmangKMehta/Trivia-Titans">Trivia-Titans</a></h3>
-      Realtime cross-platform trivia with team chat, live leaderboards, and a virtual assistant chatbot.
-      <br/><br/>
-      <code>JavaScript</code> <code>Python</code> <code>Docker</code>
-    </td>
-    <td valign="top">
-      <h3><a href="https://github.com/UmangKMehta/Text-Recognition-by-Air-Drawing">Text Recognition by Air Drawing</a></h3>
-      CNN + OpenCV model that recognizes text drawn in the air — basis of an <a href="https://ieeexplore.ieee.org/document/9514996">IEEE paper</a>.
-      <br/><br/>
-      <code>Python</code> <code>OpenCV</code> <code>CNN</code>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="./assets/divider.svg" alt="" width="100%" />
-</p>
+---
 
 ## About
 
