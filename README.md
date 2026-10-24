@@ -14,7 +14,7 @@ I build software that's dependable, maintainable, and a little bit considered.
 
 Teams, roles, and places that have shaped how I build.
 
-### <a href="https://www.firstnational.ca/" target="_blank" rel="noopener noreferrer">First National Financial LP</a> · `Full Time` · Toronto, Canada · May 2024 – Present
+### <a href="https://www.firstnational.ca/" target="_blank" rel="noopener noreferrer">First National Financial LP</a> <sub>`Full Time` · Toronto, Canada · May 2024 – Present</sub>
 
 **Application Developer** · Jul 2025 – Present  
 **Jr. Application Developer** · Aug 2024 – Jun 2025  
@@ -24,14 +24,14 @@ Teams, roles, and places that have shaped how I build.
 - Develop internal .NET Core APIs used across teams
 - Partner with QA and analysts through design, coding, and reviews
 
-### <a href="https://www.dal.ca/" target="_blank" rel="noopener noreferrer">Dalhousie University</a> · `Co-op` · Halifax, Canada · Jan 2024 – Apr 2024
+### <a href="https://www.dal.ca/" target="_blank" rel="noopener noreferrer">Dalhousie University</a> <sub>`Co-op` · Halifax, Canada · Jan 2024 – Apr 2024</sub>
 
 **Business Intelligence Developer**
 
 - Built pipelines for collecting and cleaning poultry farm emissions data
 - Designed geospatial visualizations and applied analytics / ML for insights
 
-### <a href="https://www.ciphernutz.com/" target="_blank" rel="noopener noreferrer">Ciphernutz IT Services</a> · `Full Time` · Surat, India · Jan 2022 – Sep 2022
+### <a href="https://www.ciphernutz.com/" target="_blank" rel="noopener noreferrer">Ciphernutz IT Services</a> <sub>`Full Time` · Surat, India · Jan 2022 – Sep 2022</sub>
 
 **Software Developer**
 
