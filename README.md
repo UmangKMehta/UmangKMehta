@@ -1,9 +1,3 @@
-<div align="center">
-
-<img src="./assets/um.svg" alt="UM" width="72" />
-
-### Toronto, Canada
-
 # Hi, I'm Umang
 
 **Software Developer**
@@ -12,9 +6,7 @@ I build software that's dependable, maintainable, and a little bit considered.
 
 <br />
 
-<a href="https://umangmehta.ca"><img src="https://img.shields.io/badge/Portfolio-ef7157?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>&nbsp;<a href="https://www.linkedin.com/in/umang-kalpesh-mehta/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="mailto:mehtaumangkalpesh@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
-</div>
+<a href="https://umangmehta.ca" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-ef7157?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>&nbsp;<a href="https://www.linkedin.com/in/umang-kalpesh-mehta/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="mailto:mehtaumangkalpesh@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 ---
 
@@ -22,8 +14,7 @@ I build software that's dependable, maintainable, and a little bit considered.
 
 Teams, roles, and places that have shaped how I build.
 
-### [First National Financial LP](https://www.firstnational.ca/)
-`Full Time` · Toronto, Canada · May 2024 – Present
+### <a href="https://www.firstnational.ca/" target="_blank" rel="noopener noreferrer">First National Financial LP</a> · `Full Time` · Toronto, Canada · May 2024 – Present
 
 **Application Developer** · Jul 2025 – Present  
 **Jr. Application Developer** · Aug 2024 – Jun 2025  
@@ -33,16 +24,14 @@ Teams, roles, and places that have shaped how I build.
 - Develop internal .NET Core APIs used across teams
 - Partner with QA and analysts through design, coding, and reviews
 
-### [Dalhousie University](https://www.dal.ca/)
-`Co-op` · Halifax, Canada · Jan 2024 – Apr 2024
+### <a href="https://www.dal.ca/" target="_blank" rel="noopener noreferrer">Dalhousie University</a> · `Co-op` · Halifax, Canada · Jan 2024 – Apr 2024
 
 **Business Intelligence Developer**
 
 - Built pipelines for collecting and cleaning poultry farm emissions data
 - Designed geospatial visualizations and applied analytics / ML for insights
 
-### [Ciphernutz IT Services](https://www.ciphernutz.com/)
-`Full Time` · Surat, India · Jan 2022 – Sep 2022
+### <a href="https://www.ciphernutz.com/" target="_blank" rel="noopener noreferrer">Ciphernutz IT Services</a> · `Full Time` · Surat, India · Jan 2022 – Sep 2022
 
 **Software Developer**
 
@@ -89,12 +78,6 @@ Languages and frameworks I use day to day — C#, TypeScript, .NET, Vue.js, Reac
 
 ---
 
-## About
-
-**Good software starts with curiosity.**
-
-I enjoy building scalable, maintainable applications and applying modern tools to real-world problems. My academic background reflects a deep interest in algorithms and artificial intelligence.
-
 ## GitHub Stats
 
 <p align="center">
@@ -104,3 +87,9 @@ I enjoy building scalable, maintainable applications and applying modern tools t
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=UmangKMehta&theme=dark&hide_border=true&background=0c1410&ring=c9f36a&fire=ef7157&currStreakLabel=ef7157" width="680" alt="GitHub streak" />
 </p>
+
+## About
+
+**Good software starts with curiosity.**
+
+I enjoy building scalable, maintainable applications and applying modern tools to real-world problems. My academic background reflects a deep interest in algorithms and artificial intelligence.
